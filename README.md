@@ -19,7 +19,7 @@ The projects focus on real-world business scenarios including sales performance 
 
 ### 🔴 1. E-Commerce Sales Analysis
 **Description:**  
-Analyzed e-commerce sales data to identify revenue trends, category performance, and seasonal patterns.
+“Provide actionable insights to improve business performance”
 
 **Key Highlights:**
 - Total revenue analysis and category distribution
