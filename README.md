@@ -72,10 +72,7 @@ These projects demonstrate how data can be used to:
 - Support strategic business decisions
 
 ---
-## 🔍 Approach
-- Cleaned dataset (handled missing values)
-- Created pivot tables / measures
-- Built visualizations to identify trends
+
 ## 👤 Author
 **Your Name**
 H.SUMAN
