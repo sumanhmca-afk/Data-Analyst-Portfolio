@@ -1,7 +1,7 @@
-# 📊 Data Analyst Portfolio
-## 👋 About Me
-Aspiring Data Analyst skilled in Excel and Power BI, focused on transforming data into actionable business insights. Actively seeking entry-level opportunities.
+# 👋 Hi, I'm Suman
 
+Aspiring Data Analyst skilled in Excel and Power BI, focused on transforming raw data into actionable business insights. Actively seeking entry-level Data Analyst opportunities.
+# 📊 Data Analyst Portfolio
 ## 📌 Overview
 This repository showcases a collection of data analysis and visualization projects demonstrating my ability to extract insights, build dashboards, and support data-driven decision-making.
 
